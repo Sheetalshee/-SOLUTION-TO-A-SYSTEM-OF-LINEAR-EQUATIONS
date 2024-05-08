@@ -24,7 +24,6 @@ a=[[5,-3,-10],
 b=np.array([-9,4,-1])
 c=np.linalg.solve(a,b)
 print(c)
-
 ## Output:
 ![image](https://github.com/sheetal.R/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/150005194/934d403c-7ab0-4e02-92d5-3728065ab852)
 ## Result: 
